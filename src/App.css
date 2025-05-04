@@ -1,0 +1,63 @@
+/* styles.css */
+@import "tailwindcss";
+
+/* app.css */
+
+/* Apply a white background to the entire app */
+/* body {
+    background-color: blue;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    border: 5px solid black; 
+} */
+/*
+h1, h2, h3, h4, h5, h6, p, span, div {
+    color: black;
+}
+
+
+a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+    color: gray;
+}
+
+
+button, .btn {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+button:hover, .btn:hover {
+    background-color: gray;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mt-8 {
+    margin-top: 2rem;
+}
+
+.mb-8 {
+    margin-bottom: 2rem;
+} */
